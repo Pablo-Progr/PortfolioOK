@@ -1,0 +1,18 @@
+{
+    "aboutme": {
+        "nombre": "Pablo Dominguez",
+        "profesion": "Desarrollador FrontEnd",
+        "tecnologias": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "Node.js",
+            "MySQL",
+            "Git",
+            "GitHub"
+            
+        ],
+        "descripcion": "Desarrollador web full stack y estudiante de programacion de la FRT, tengo conocimiento en React, Node.js y MySQL. Me gusta aprender nuevas tecnologías y mejorar mis habilidades. En mi tiempo libre disfruto de la lectura, el deporte, escuchar musica y pasar el rato con amigos."
+    }
+}

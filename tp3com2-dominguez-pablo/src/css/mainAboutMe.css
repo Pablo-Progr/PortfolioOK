@@ -1,0 +1,59 @@
+.backgroundMain{
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    width: 80%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    background-color: #c0c0c0;
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px black;
+    padding: 40px;
+    margin: 57px 0px;
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.containerFoto{
+    width: 30%;
+    display: flex;
+    align-items: center;
+}
+
+.containerInfo{
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    
+
+}
+
+
+.fotoCard{
+    width: 200px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    background-color: rgb(40, 113, 198);
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    border: none;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 15px;
+    border-radius: 8px;
+    box-shadow: 3px 3px 8px black;
+}

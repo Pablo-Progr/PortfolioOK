@@ -1,3 +1,5 @@
+
+
 {
     "aboutme": {
         "nombre": "Pablo Dominguez",
@@ -14,5 +16,19 @@
             
         ],
         "descripcion": "Desarrollador web full stack y estudiante de programacion de la FRT, tengo conocimiento en React, Node.js y MySQL. Me gusta aprender nuevas tecnologías y mejorar mis habilidades. En mi tiempo libre disfruto de la lectura, el deporte, escuchar musica y pasar el rato con amigos."
-    }
+    },
+    "proyectos": [
+        {
+            "nombre": "API Rick and Morty",
+            "descripcion": "Un portfolio personal para mostrar mis proyectos y habilidades.",
+            "tecnologias": "HTML, CSS, React",
+            "link": ""
+        },
+        {
+            "nombre": "Pedidos Ya",
+            "descripcion": "Replica de la app de Pedidos Ya, donde se pueden realizar pedidos de comida a domicilio.",
+            "tecnologias": "HTML, CSS, React, Node.js, MySQL",
+            "link": ""
+        }
+    ]
 }

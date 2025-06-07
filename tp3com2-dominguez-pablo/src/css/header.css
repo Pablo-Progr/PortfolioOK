@@ -29,3 +29,17 @@
     
     background-color: rgba(0, 0, 212, 1)
 }
+
+body.light {
+    background: #fff;
+    color: #222;
+  }
+  body.dark {
+    background: #222;
+    color: #fff;
+  }
+  .theme-btn {
+    margin-left: 1rem;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+  }

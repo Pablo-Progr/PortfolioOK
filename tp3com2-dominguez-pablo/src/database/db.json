@@ -20,9 +20,9 @@
     "proyectos": [
         {
             "nombre": "API Rick and Morty",
-            "descripcion": "Un portfolio personal para mostrar mis proyectos y habilidades.",
+            "descripcion": "Pagina web que consume la API de Rick and Morty, mostrando personajes, Con su respectiva informacion.",
             "tecnologias": "HTML, CSS, React",
-            "link": ""
+            "link": "https://github.com/Pablo-Progr/apiRickyyMorty"
         },
         {
             "nombre": "Pedidos Ya",

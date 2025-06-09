@@ -7,7 +7,7 @@ import img from "../img/yo.jpg";
 const MainAboutMe = () => {
   return (
       <div className='backgroundMain'>
-        <div className='card'>
+        <div className='cardAboutMe '>
 
           <div className='containerFoto'>
             <img className='fotoCard' src={img} alt="" />

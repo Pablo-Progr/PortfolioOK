@@ -3,22 +3,22 @@
     justify-content: center;
 }
 
-.card{
+.cardAboutMe{
     width: 80%;
     height: 400px;
     display: flex;
     justify-content: center;
     flex-direction: row;
     align-items: center;
-    background-color: #c0c0c0;
+    background-color: #4f9cf3;
     border-radius: 8px;
-    box-shadow: 5px 5px 10px black;
     padding: 40px;
     margin: 57px 0px;
     font-family: "Roboto Slab", serif;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
+    color: white;
 }
 
 

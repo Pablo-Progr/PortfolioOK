@@ -5,7 +5,7 @@ const MainContact = () => {
   return (
     <div className="container d-flex justify-content-center flex-column mt-5 mb-5">
       <Form className="form">
-        <h2>Contactame</h2>
+        <h2 className='d-flex justify-content-center'>Contactame</h2>
         <Form.Group
           className="mb-3 container"
           controlId="exampleForm.ControlInput1"
